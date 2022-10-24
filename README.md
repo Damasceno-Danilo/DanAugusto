@@ -1,12 +1,12 @@
 # Olá! Eu sou Danilo Augusto
 
--👨‍🎓 Hoje estudo Analise e Desenvolvimento de Sistemas
+-👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas 2° semestre
 
--👨‍🏭 Estou em transição de carreira para área de T.I.
+-👨‍🏭 Estou em transição de carreira para área de T.I. 
 
--📘Iniciei meu estudo em front-end, mas após várias pesquisa hoje quero atuar com qualidade de software.
+-📘 Analista de automação Jr - Keeggo -
 
--📘Faço cursos na Ûdeny de Java, e já conclui curso de Lógica de programação e Teste de software manuais e automatizados.
+-📘 Cursos - BDD com Cucumber em Jqva / Testes Funcionais com Selenium WebDriver / Teste API com Rest-Assured em Java / Automação Teste API com Postman /
 
 
 <div align="center">
